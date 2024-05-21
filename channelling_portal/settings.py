@@ -1,0 +1,1 @@
+SPIRITS_PATH = "."
